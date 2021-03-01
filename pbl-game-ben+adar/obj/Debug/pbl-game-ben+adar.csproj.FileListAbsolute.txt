@@ -1,0 +1,210 @@
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\הכנה למבחן 26.5.18\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+G:\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+G:\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+G:\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+G:\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+G:\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+G:\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+G:\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+G:\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+G:\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+E:\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+E:\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+E:\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojAssemblyReference.cache
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.cache
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.CoreCompileInputs.cache
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\pbl-game-ben+adar-20181122T112418Z-001\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+C:\Users\Admin\Desktop\pbl-game-ben+adar\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojAssemblyReference.cache
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.cache
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.CoreCompileInputs.cache
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+E:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+G:\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+C:\Users\ben\Desktop\pbl-game-ben+adar newest\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+F:\pbl-game-ben+adar newest9\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojAssemblyReference.cache
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.cache
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.CoreCompileInputs.cache
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form5.resources
+G:\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+G:\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+G:\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form5.resources
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+G:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+E:\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+E:\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+E:\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form5.resources
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+E:\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\Interop.WMPLib.dll
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\Interop.WMPLib.dll
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.ResolveComReference.cache
+C:\Users\ben\Desktop\pbl-game-ben+ada\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form6.resources
+G:\pbl game +video\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+G:\pbl game +video\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+G:\pbl game +video\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+G:\pbl game +video\pbl-game-ben+adar\bin\Debug\Interop.WMPLib.dll
+G:\pbl game +video\pbl-game-ben+adar\bin\Debug\AxInterop.WMPLib.dll
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojResolveAssemblyReference.cache
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\Interop.WMPLib.dll
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\AxInterop.WMPLib.dll
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.ResolveComReference.cache
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form5.resources
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form6.resources
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.Cache
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+G:\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\bin\Debug\Interop.WMPLib.dll
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojAssemblyReference.cache
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\Interop.WMPLib.dll
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.ResolveComReference.cache
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form5.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form6.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.cache
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.CoreCompileInputs.cache
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form7.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form8.resources
+C:\Users\ben\Desktop\pbl game +video\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form9.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe.config
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\bin\Debug\pbl-game-ben+adar.pdb
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\bin\Debug\Interop.WMPLib.dll
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csprojAssemblyReference.cache
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\Interop.WMPLib.dll
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.ResolveComReference.cache
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form1.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form2.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form3.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form4.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form5.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form6.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form7.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form8.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Form9.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl_game_ben_adar.Properties.Resources.resources
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.GenerateResource.cache
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.csproj.CoreCompileInputs.cache
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.exe
+C:\Users\ben\Desktop\FINAL GAME\pbl-game-ben+adar\obj\Debug\pbl-game-ben+adar.pdb
